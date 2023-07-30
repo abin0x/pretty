@@ -1,0 +1,38 @@
+.header {
+    height: 700px;
+    background-image: url('laptop.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: gray;
+    background-blend-mode: multiply;
+    background-size: cover;
+
+}
+
+h2 {
+    color: rgb(20, 70, 233);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(255, 0, 17);
+    text-decoration: line-through;
+}
+
+p {
+    color: blueviolet;
+}
+
+.page-tittle {
+    font-weight: 900px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blog {
+    background-color: aqua;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 10px teal;
+    width: fit-content;
+    height: 200px;
+    padding: 10px;
+}
